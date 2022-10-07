@@ -16,7 +16,7 @@ I was tasked by a company called SellBy to analyze Amazon reviews written by mem
   - For Vine reviewers the percentage is 51%.
   - For Non-Vine reviewers the percentage is 38%.
   
-  ----------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
   
   
  ## Summary
